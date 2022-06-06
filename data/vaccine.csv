@@ -148,7 +148,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-06-06,All,196516,19890
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-06-06,All,66733,92696
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-06-06,All,15682848,144570
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-06-06,All,35178525,199390
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-06-06,All,35300621,200082
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-06-06,All,85265369,83320
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-06-06,All,10835169,167049
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-06-06,All,480000,34212
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-06-06,All,13927995,140621
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-06-06,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-06-06,All,812839,238194
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-06,All,1941292135,140672
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-06,All,1941292852,140672
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-06-06,All,708914,169988
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-06-06,All,95927124,177961
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-06-06,All,1708040,108760
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-06-06,All,110771533,142304
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-06-06,All,63601759,161578
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-06-06,All,5425708,130119
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-06,All,5241776,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-06,All,5242493,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-06-06,All,329245575,138406
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-06-06,All,18023024,160192
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-06-06,All,140473972,141024
