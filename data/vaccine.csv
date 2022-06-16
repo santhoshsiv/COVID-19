@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-06-16,All,2355126,14337
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-06-16,All,58456795,305797
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-06-16,All,3397315599,241857
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-16,All,17459108,232881
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-16,All,17479635,233155
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-06-16,All,1431156,220400
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-06-16,All,85035793,167120
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-06-16,All,134666,175829
@@ -446,7 +446,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-06-16,All,5374497,153822
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-06-16,All,2537080,149149
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-06-16,All,24105499,236404
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-06-16,All,6938813,240842
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-06-16,All,6943486,241004
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-06-16,All,16827486,87471
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-06-16,All,167552433,114813
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-06-16,All,,0
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-06-16,All,494684,252222
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-06-16,All,70784,208568
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-06-16,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-06-16,All,66607831,191325
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-06-16,All,66608494,191327
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-06-16,All,2523856,15073
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-06-16,All,8533114,97662
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-06-16,All,221597,225337
@@ -707,7 +707,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-06-16,All,131612,211346
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",2022-06-16,All,41104,135939
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2022-06-16,All,144978,220599
-8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2022-06-16,All,234978,137817
+8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2022-06-16,All,235239,137970
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2022-06-16,All,124917328,223157
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-06-16,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2022-06-16,All,119855,355747
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-16,All,12285561,224874
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-16,All,69465,179412
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-16,All,6993313,222816
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-16,All,8561259,246457
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-16,All,8561415,246461
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-16,All,52392744,156540
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-16,All,301000,102842
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-16,All,37860994,133144
