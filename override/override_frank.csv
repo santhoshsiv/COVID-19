@@ -1,1 +1,3 @@
-fips,County,Province_State,Country_Region,Confirmed,Deaths
+jhu_uid,fips,county,province_state,country_region,Confirmed,Deaths
+4,,,Afghanistan,0,
+84024027,24027,Howard,Maryland,US,0,
