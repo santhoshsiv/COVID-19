@@ -152,23 +152,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-06-21,All,88052405,86043
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-06-21,All,10875762,167675
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-06-21,All,484554,34537
-233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-06-21,All,1992325,150189
-23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-06-21,All,881878,145757
-23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-06-21,All,18249,195909
-23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-06-21,All,162335,120911
-23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-06-21,All,46187,153068
-23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2022-06-21,All,45606,160347
-23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-06-21,All,32150,157258
-23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2022-06-21,All,89033,151257
-23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2022-06-21,All,119661,138842
-23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-06-21,All,36492,148058
-23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-06-21,All,49309,148155
-23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-06-21,All,51860,156757
-23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-06-21,All,257085,167681
-23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2022-06-21,All,45904,
-23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-06-21,All,38276,135711
-23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-06-21,All,70812,153402
-23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-06-21,All,47488,134090
+233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-06-21,All,1993245,150259
+23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-06-21,All,882310,145829
+23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-06-21,All,18278,196221
+23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-06-21,All,162406,120964
+23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-06-21,All,46199,153108
+23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2022-06-21,All,45602,160333
+23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-06-21,All,32144,157229
+23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2022-06-21,All,89043,151274
+23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2022-06-21,All,119669,138851
+23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-06-21,All,36489,148046
+23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-06-21,All,49343,148257
+23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-06-21,All,51895,156863
+23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-06-21,All,257217,167768
+23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2022-06-21,All,46043,
+23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-06-21,All,38285,135743
+23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-06-21,All,70832,153445
+23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-06-21,All,47490,134095
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2022-06-21,All,535393,46148
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-06-21,All,29419678,25590
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-06-21,All,1475100,164550
@@ -394,7 +394,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-06-21,All,411622,390533
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-06-21,All,945036,174831
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-06-21,All,2308245,11398
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-06-21,All,1311345,296994
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-06-21,All,1311934,297127
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-06-21,All,74002,126687
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-06-21,All,2845889,61206
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-06-21,All,2698115,212154
@@ -448,7 +448,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-06-21,All,24413324,239423
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-06-21,All,6955198,241411
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-06-21,All,16827486,87471
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-06-21,All,168244558,115287
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-06-21,All,168248674,115290
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-06-21,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-06-21,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-06-21,All,,0
@@ -519,7 +519,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-06-21,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-06-21,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-06-21,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-06-21,All,168244558,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-06-21,All,168248674,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-06-21,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-06-21,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-06-21,All,,0
