@@ -83,7 +83,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-06-21,All,3404609752,242376
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-21,All,17572165,234389
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-06-21,All,1435088,221006
-170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-06-21,All,85035793,167120
+170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-06-21,All,85483932,168001
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-06-21,All,136376,178062
 17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2022-06-21,All,12135150,189401
 17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",2022-06-21,All,405004,154479
@@ -368,7 +368,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-06-21,All,390133,
 44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-06-21,All,122535,
 44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-06-21,All,164340,
-44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-06-21,All,60853,
+44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-06-21,All,341,
 44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-06-21,All,199147,
 44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-06-21,All,1456442,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-06-21,All,1302017,207997
@@ -697,7 +697,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 850,VI,VIR,850,78,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",2022-06-21,All,148267,138221
 84000051,US,USA,840,51,,Virginia,US,37.7693,-78.17,"Virginia, US",2022-06-21,All,16948298,198562
 84000053,US,USA,840,53,,Washington,US,47.4009,-121.4905,"Washington, US",2022-06-21,All,14938650,196176
-84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",2022-06-21,All,2781324,152808
+84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",2022-06-21,All,2572318,143532
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2022-06-21,All,10591765,181913
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2022-06-21,All,759520,131232
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2022-06-21,All,21268120,46496
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-21,All,12860332,235394
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-21,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-21,All,7335666,233724
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-21,All,8601563,247617
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-21,All,8602453,247643
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-21,All,53160080,158832
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-21,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-21,All,37860994,133144
