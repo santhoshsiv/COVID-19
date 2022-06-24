@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-06-24,All,2355126,14337
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-06-24,All,59008893,308685
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-06-24,All,3404609752,242376
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-24,All,17603577,234808
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-24,All,17622123,235056
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-06-24,All,1436522,221227
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-06-24,All,85483932,168001
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-06-24,All,136376,178062
@@ -197,7 +197,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-06-24,All,566886,25469
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-06-24,All,720000,29793
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-06-24,All,2900226,72702
-276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-06-24,All,182520121,217846
+276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-06-24,All,182587312,217926
 27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2022-06-24,All,23582956,213043
 27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2022-06-24,All,27709849,211902
 27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",2022-06-24,All,8153276,223694
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-24,All,12883447,235818
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-24,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-24,All,7335666,233724
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-24,All,8626920,248347
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-24,All,8627384,248361
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-24,All,53160080,158832
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-24,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-24,All,37860994,133144
