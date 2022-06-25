@@ -51,7 +51,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2022-06-25,All,487086,122500
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,2022-06-25,All,4156907,34288
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2022-06-25,All,1910077,247543
-68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2022-06-25,All,14142120,121152
+68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2022-06-25,All,14158927,121296
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2022-06-25,All,1924950,58672
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-06-25,All,2727844,115998
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-06-25,All,451276207,212305
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-25,All,12883447,235818
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-25,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-25,All,7335666,233724
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-25,All,8641942,248780
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-25,All,8642007,248781
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-25,All,53160080,158832
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-25,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-25,All,37860994,133144
