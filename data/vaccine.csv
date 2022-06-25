@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-06-25,All,390024,270874
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-06-25,All,3414080,220055
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-06-25,All,2150112,72559
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-06-25,All,60112660,236109
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-06-25,All,1574981,367900
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-06-25,All,18648739,229720
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-06-25,All,594530,242072
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-06-25,All,11366241,222192
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-06-25,All,4181408,238053
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-06-25,All,1363512,254624
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-06-25,All,60151749,236262
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-06-25,All,1576131,368168
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-06-25,All,18661452,229877
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-06-25,All,594812,242187
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-06-25,All,11373465,222333
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-06-25,All,4185135,238265
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-06-25,All,1364593,254825
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-06-25,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-06-25,All,15771820,237889
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-06-25,All,6611429,251327
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-06-25,All,15780872,238025
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-06-25,All,6615289,251474
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-06-25,All,18412319,204435
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-06-25,All,13757804,135689
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-06-25,All,340866,86679
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-06-25,All,14369912,145083
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-06-25,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-06-25,All,816139,239161
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-25,All,1969449536,142713
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-25,All,1969450316,142713
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-06-25,All,712262,170791
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-06-25,All,96723482,179438
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-06-25,All,1738004,110668
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-06-25,All,112765435,144865
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-06-25,All,63958220,162484
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-06-25,All,5479212,131402
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-25,All,5258498,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-25,All,5259278,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-06-25,All,338843397,142441
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-06-25,All,18219926,161942
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-06-25,All,141519578,142074
