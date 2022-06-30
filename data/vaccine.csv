@@ -47,7 +47,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-06-30,All,3453636,202966
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2022-06-30,All,372041,129463
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2022-06-30,All,13206203,139758
-56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-06-30,All,25645285,221278
+56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-06-30,All,25656578,221375
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2022-06-30,All,489508,123109
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,2022-06-30,All,4156907,34288
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2022-06-30,All,1910077,247543
@@ -681,12 +681,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2022-06-30,All,760899,131470
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2022-06-30,All,21490654,46983
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-06-30,All,24922054,251982
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-06-30,All,150971004,222389
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-06-30,All,150971496,222389
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-06-30,All,23926,159485
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-06-30,All,131612,211346
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",2022-06-30,All,41198,136250
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2022-06-30,All,145906,222011
-8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2022-06-30,All,235534,138143
+8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2022-06-30,All,236026,138432
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2022-06-30,All,125404521,224027
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-06-30,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2022-06-30,All,119855,355747
@@ -697,7 +697,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-30,All,12905587,236223
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-30,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-30,All,7354833,234334
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8672972,249673
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8673641,249692
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-30,All,54871667,163946
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-30,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-30,All,37860994,133144
