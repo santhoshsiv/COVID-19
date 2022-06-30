@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-06-30,All,2356138,14344
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-06-30,All,59315574,310289
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-06-30,All,3410000433,242760
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-30,All,17693336,236005
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-06-30,All,17712838,236266
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-06-30,All,1439533,221691
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-06-30,All,85767160,168557
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-06-30,All,136925,178778
@@ -446,7 +446,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-06-30,All,5380385,153990
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-06-30,All,2538603,149239
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-06-30,All,24526288,240531
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-06-30,All,6980749,242297
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-06-30,All,6984144,242415
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-06-30,All,16827486,87471
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-06-30,All,168942751,115766
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-06-30,All,,0
@@ -584,27 +584,6 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-06-30,All,9710092,22144
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-06-30,All,554588,94537
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2022-06-30,All,22674504,224516
-75201,SE,SWE,752,,,Blekinge,Sweden,56.2784,15.018,"Blekinge, Sweden",2022-06-30,All,367701,230380
-75202,SE,SWE,752,,,Dalarna,Sweden,61.0917,14.6664,"Dalarna, Sweden",2022-06-30,All,668160,232027
-75203,SE,SWE,752,,,Gavleborg,Sweden,61.3012,16.1534,"Gavleborg, Sweden",2022-06-30,All,652879,227181
-75204,SE,SWE,752,,,Gotland,Sweden,57.4684,18.4867,"Gotland, Sweden",2022-06-30,All,147491,247111
-75205,SE,SWE,752,,,Halland,Sweden,56.8967,12.8034,"Halland, Sweden",2022-06-30,All,768518,230199
-75206,SE,SWE,752,,,Jamtland Harjedalen,Sweden,63.1712,14.9592,"Jamtland Harjedalen, Sweden",2022-06-30,All,300640,229829
-75207,SE,SWE,752,,,Jonkoping,Sweden,57.3708,14.3439,"Jonkoping, Sweden",2022-06-30,All,812070,223342
-75208,SE,SWE,752,,,Kalmar,Sweden,57.235,16.1849,"Kalmar, Sweden",2022-06-30,All,583011,237531
-75209,SE,SWE,752,,,Kronoberg,Sweden,56.7183,14.4115,"Kronoberg, Sweden",2022-06-30,All,432344,214595
-75210,SE,SWE,752,,,Norrbotten,Sweden,66.8309,20.3992,"Norrbotten, Sweden",2022-06-30,All,598999,239510
-75211,SE,SWE,752,,,Orebro,Sweden,59.535,15.0066,"Orebro, Sweden",2022-06-30,All,690786,226632
-75212,SE,SWE,752,,,Ostergotland,Sweden,58.3454,15.5198,"Ostergotland, Sweden",2022-06-30,All,1071292,230140
-75213,SE,SWE,752,,,Skane,Sweden,55.9903,13.5958,"Skane, Sweden",2022-06-30,All,2851611,206964
-75214,SE,SWE,752,,,Sormland,Sweden,59.0336,16.7519,"Sormland, Sweden",2022-06-30,All,666400,223969
-75215,SE,SWE,752,,,Stockholm,Sweden,59.6025,18.1384,"Stockholm, Sweden",2022-06-30,All,4870024,204874
-75216,SE,SWE,752,,,Uppsala,Sweden,60.0092,17.2715,"Uppsala, Sweden",2022-06-30,All,898652,234199
-75217,SE,SWE,752,,,Varmland,Sweden,59.7294,13.2354,"Varmland, Sweden",2022-06-30,All,684414,242344
-75218,SE,SWE,752,,,Vasterbotten,Sweden,65.3337,16.5162,"Vasterbotten, Sweden",2022-06-30,All,651356,239701
-75219,SE,SWE,752,,,Vasternorrland,Sweden,63.4276,17.7292,"Vasternorrland, Sweden",2022-06-30,All,570526,232538
-75220,SE,SWE,752,,,Vastmanland,Sweden,59.6714,16.2159,"Vastmanland, Sweden",2022-06-30,All,612047,221880
-75221,SE,SWE,752,,,Vastra Gotaland,Sweden,58.2528,13.0596,"Vastra Gotaland, Sweden",2022-06-30,All,3687270,213645
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,2022-06-30,All,15759752,182096
 75601,CH,CHE,756,,,Aargau,Switzerland,47.3877,8.2554,"Aargau, Switzerland",2022-06-30,All,1252718,182653
 75602,CH,CHE,756,,,Appenzell Ausserrhoden,Switzerland,47.3665,9.3001,"Appenzell Ausserrhoden, Switzerland",2022-06-30,All,92644,167091
@@ -718,7 +697,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-30,All,12905587,236223
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-30,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-30,All,7354833,234334
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8672080,249647
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8672322,249654
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-30,All,54871667,163946
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-30,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-30,All,37860994,133144
