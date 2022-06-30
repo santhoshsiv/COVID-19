@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-06-30,All,14404631,145433
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-06-30,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-06-30,All,821761,240809
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-30,All,1976198298,143202
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-06-30,All,1976198991,143202
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-06-30,All,712972,170961
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-06-30,All,96904689,179774
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-06-30,All,1744526,111083
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-06-30,All,113118204,145319
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-06-30,All,64067725,162762
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-06-30,All,5493955,131756
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-30,All,5260923,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-06-30,All,5261616,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-06-30,All,340475579,143127
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-06-30,All,18254346,162248
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-06-30,All,141971595,142528
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-06-30,All,12883447,235818
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-06-30,All,69803,180285
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-06-30,All,7354833,234334
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8672022,249646
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-06-30,All,8672067,249647
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-06-30,All,54871667,163946
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-06-30,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-06-30,All,37860994,133144
