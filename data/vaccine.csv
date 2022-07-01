@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-07-01,All,391134,271645
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-07-01,All,3425253,220776
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-07-01,All,4154865,140213
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-01,All,60279625,236764
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-01,All,1580007,369074
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-01,All,18703694,230397
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-01,All,595620,242516
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-01,All,11397304,222799
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-01,All,4196904,238935
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-01,All,1368484,255552
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-01,All,60316656,236910
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-01,All,1581172,369346
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-01,All,18715187,230539
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-01,All,595842,242606
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-01,All,11405343,222956
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-01,All,4200102,239117
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-01,All,1369482,255738
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-07-01,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-01,All,15809437,238456
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-01,All,6628175,251964
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-01,All,15817874,238583
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-01,All,6631654,252096
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-01,All,18422763,204551
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-01,All,13762091,135731
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-01,All,340866,86679
@@ -63,7 +63,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-07-01,All,773810,139177
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-07-01,All,40711780,243506
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-07-01,All,1838907,6927
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-07-01,All,86173422,227636
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-07-01,All,86177069,227646
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-07-01,All,8888658,201413
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-07-01,All,11994569,234685
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-07-01,All,2863534,207876
@@ -75,7 +75,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-07-01,All,33622339,228539
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-07-01,All,391227,247364
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-07-01,All,20362569,238502
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-07-01,All,2523427,213548
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-07-01,All,2527074,213856
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-07-01,All,92557,225320
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-07-01,All,1217399,25206
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-07-01,All,2356138,14344
