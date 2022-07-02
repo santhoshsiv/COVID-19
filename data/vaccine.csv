@@ -394,7 +394,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-07-02,All,412684,391540
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-07-02,All,945036,174831
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-07-02,All,2406986,11885
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-02,All,1317273,298336
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-02,All,1317526,298394
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-07-02,All,75579,129387
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-07-02,All,2850398,61303
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-07-02,All,2554648,200873
@@ -407,7 +407,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,2022-07-02,All,54846507,148593
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,2022-07-02,All,31616078,101153
 516,,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2022-07-02,All,825518,32488
-528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2022-07-02,All,35407012,206637
+528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2022-07-02,All,35568800,207581
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",2022-07-02,All,172049,161145
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-07-02,All,57208,218176
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-07-02,All,254202,154906
@@ -448,7 +448,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-07-02,All,24617451,241425
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-07-02,All,6990365,242631
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-07-02,All,16827486,87471
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-07-02,All,168942751,115766
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-07-02,All,168992435,115800
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-07-02,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-07-02,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-07-02,All,,0
@@ -519,7 +519,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-07-02,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-07-02,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-07-02,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-07-02,All,168942751,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-07-02,All,168992435,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-07-02,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-07-02,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-07-02,All,,0
