@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-07-09,All,0,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-09,All,15874485,239437
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-09,All,6654911,252980
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-09,All,18438204,204723
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-09,All,18441266,204757
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-09,All,13772531,135834
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-09,All,340866,86679
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-07-09,All,3456171,203115
@@ -197,7 +197,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-07-09,All,567575,25500
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-07-09,All,812811,33633
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-07-09,All,2902085,72749
-276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-07-09,All,183087014,218522
+276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-07-09,All,183126332,218569
 27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2022-07-09,All,23639111,213551
 27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2022-07-09,All,27775947,212407
 27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",2022-07-09,All,8184923,224562
