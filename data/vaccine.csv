@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-07-10,All,0,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-10,All,15879885,239519
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-10,All,6657217,253068
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-10,All,18441266,204757
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-10,All,18442105,204766
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-10,All,13772531,135834
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-10,All,340866,86679
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-07-10,All,3456237,203118
@@ -394,7 +394,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-07-10,All,413850,392647
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-07-10,All,945800,174972
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-07-10,All,2406986,11885
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-10,All,1319825,298914
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-10,All,1320226,299005
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-07-10,All,76324,130662
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-07-10,All,2872677,61782
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-07-10,All,2559789,201278
