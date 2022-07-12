@@ -374,7 +374,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-07-12,All,1306770,208757
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-07-12,All,2369775,8557
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-07-12,All,2166402,11324
-458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-12,All,71497405,220902
+458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-12,All,71501795,220916
 45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-07-12,All,8770094,232739
 45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-07-12,All,4086075,186928
 45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-07-12,All,2801415,148050
@@ -385,7 +385,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",2022-07-12,All,508601,199764
 45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4164,100.3327,"Pulau Pinang, Malaysia",2022-07-12,All,4323405,243215
 45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",2022-07-12,All,5921882,151660
-45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-07-12,All,6482990,230048
+45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-07-12,All,6487380,230204
 45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",2022-07-12,All,14476085,221282
 45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",2022-07-12,All,2199928,175980
 45817,MY,MYS,458,,,Unknown,Malaysia,,,"Unknown, Malaysia",2022-07-12,All,0,0
