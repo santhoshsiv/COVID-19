@@ -330,6 +330,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-07-19,All,290009676,229299
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2022-07-19,All,10020706,98211
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2022-07-19,All,18745826,99835
+39819,KZ,KAZ,398,,,Abay,Kazakhstan,49.6324,72.8772,"Abay, Kazakhstan",2022-07-19,All,0,0
 39801,KZ,KAZ,398,,,Aktobe,Kazakhstan,50.2839,57.167,"Aktobe, Kazakhstan",2022-07-19,All,803147,100766
 39802,KZ,KAZ,398,,,Almaty,Kazakhstan,45.0119,78.4229,"Almaty, Kazakhstan",2022-07-19,All,2026782,98425
 39803,KZ,KAZ,398,,,Almaty City,Kazakhstan,43.222,76.8512,"Almaty City, Kazakhstan",2022-07-19,All,2200330,111295
@@ -337,6 +338,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39805,KZ,KAZ,398,,,Atyrau,Kazakhstan,47.0945,51.9238,"Atyrau, Kazakhstan",2022-07-19,All,534001,95976
 39806,KZ,KAZ,398,,,East Kazakhstan,Kazakhstan,48.7063,80.7923,"East Kazakhstan, Kazakhstan",2022-07-19,All,1839073,134278
 39807,KZ,KAZ,398,,,Jambyl,Kazakhstan,44.222,72.3658,"Jambyl, Kazakhstan",2022-07-19,All,1266387,118172
+39820,KZ,KAZ,398,,,Jetisu,Kazakhstan,43.281,76.9528,"Jetisu, Kazakhstan",2022-07-19,All,0,0
 39808,KZ,KAZ,398,,,Mangystau,Kazakhstan,43.6895,51.3043,"Mangystau, Kazakhstan",2022-07-19,All,438051,73411
 39809,KZ,KAZ,398,,,North Kazakhstan,Kazakhstan,54.1622,69.9387,"North Kazakhstan, Kazakhstan",2022-07-19,All,626683,108160
 39810,KZ,KAZ,398,,,Nur-Sultan,Kazakhstan,51.1605,71.4704,"Nur-Sultan, Kazakhstan",2022-07-19,All,979409,86214
@@ -346,6 +348,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39814,KZ,KAZ,398,,,Qyzylorda,Kazakhstan,44.6923,62.6572,"Qyzylorda, Kazakhstan",2022-07-19,All,854692,106898
 39815,KZ,KAZ,398,,,Shymkent,Kazakhstan,42.3417,69.5901,"Shymkent, Kazakhstan",2022-07-19,All,1197961,99830
 39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2022-07-19,All,7140000,265920
+39821,KZ,KAZ,398,,,Ulytau,Kazakhstan,48.0445,65.6599,"Ulytau, Kazakhstan",2022-07-19,All,0,0
 39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568,50.8067,"West Kazakhstan, Kazakhstan",2022-07-19,All,547677,83380
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2022-07-19,All,19093750,35509
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2022-07-19,All,151235,128594
@@ -543,7 +546,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-07-19,All,7079452,129668
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2022-07-19,All,482043,73835
 706,SO,SOM,706,,,,Somalia,5.152149,46.199616,Somalia,2022-07-19,All,3143630,19779
-710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-07-19,All,37025629,62428
+710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-07-19,All,37060820,62488
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2022-07-19,All,1323626,11824
 724,ES,ESP,724,,,,Spain,40.463667,-3.74922,Spain,2022-07-19,All,102258825,218713
 72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-07-19,All,17303991,205330
@@ -683,7 +686,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-07-19,All,12943014,236908
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-07-19,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-07-19,All,7385187,235301
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-19,All,8705194,250600
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-19,All,8705266,250603
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-07-19,All,55782994,166669
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-07-19,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-07-19,All,37860994,133144
