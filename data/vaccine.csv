@@ -174,25 +174,25 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-07-25,All,1487617,165946
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-07-25,All,12203932,220259
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-07-25,All,150577493,230686
-25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-07-25,All,16905093,
-25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-07-25,All,7996507,
-25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-07-25,All,6063590,
-25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-07-25,All,5839617,
-25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-07-25,All,647409,
+25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-07-25,All,16920063,
+25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-07-25,All,8005297,
+25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-07-25,All,6069638,
+25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-07-25,All,5846572,
+25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-07-25,All,647740,
 254,GF,GUF,254,,,French Guiana,France,4.0,-53.0,"French Guiana, France",2022-07-25,All,235405,78814
 258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",2022-07-25,All,456203,162405
-25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-07-25,All,11925553,
+25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-07-25,All,11939071,
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",2022-07-25,All,383462,95835
-25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-07-25,All,25076568,
-25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-07-25,All,8796689,
+25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-07-25,All,25100714,
+25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-07-25,All,8804856,
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-07-25,All,389602,103820
-25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-07-25,All,13905182,
+25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-07-25,All,13921796,
 540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",2022-07-25,All,462133,161873
-25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-07-25,All,7652111,
-25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-07-25,All,12778030,
-25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-07-25,All,10414896,
-25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-07-25,All,6885533,
-25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-07-25,All,13047128,
+25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-07-25,All,7659805,
+25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-07-25,All,12790967,
+25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-07-25,All,10424243,
+25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-07-25,All,6891703,
+25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-07-25,All,13062393,
 876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-07-25,All,16426,107436
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-07-25,All,568751,25553
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-07-25,All,812811,33633
@@ -304,28 +304,28 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2022-07-25,All,18785269,46703
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-07-25,All,11330933,229473
 376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-07-25,All,18206426,210344
-380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-07-25,All,139213465,230250
-38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-07-25,All,3000446,228765
-38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2022-07-25,All,1283073,227952
-38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2022-07-25,All,4145433,212899
-38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2022-07-25,All,12666634,218326
-38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.3417208,"Emilia-Romagna, Italy",2022-07-25,All,10656744,238968
-38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2022-07-25,All,2746616,226018
-38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2022-07-25,All,13690749,232872
-38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2022-07-25,All,3566091,229975
-38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2022-07-25,All,24341162,241946
-38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2022-07-25,All,3400469,222941
-38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2022-07-25,All,717397,234737
-38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2022-07-25,All,1124212,211191
-38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2022-07-25,All,1264043,233468
-38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2022-07-25,All,10289445,236191
-38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2022-07-25,All,9487356,235473
-38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2022-07-25,All,3775935,230297
-38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2022-07-25,All,10513614,210276
-38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2022-07-25,All,8964502,240358
-38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2022-07-25,All,2060836,233650
-38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2022-07-25,All,281399,223926
-38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2022-07-25,All,11237309,229059
+380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-07-25,All,139252757,230315
+38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-07-25,All,3001101,228815
+38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2022-07-25,All,1283537,228034
+38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2022-07-25,All,4146082,212932
+38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2022-07-25,All,12669674,218378
+38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.3417208,"Emilia-Romagna, Italy",2022-07-25,All,10659425,239028
+38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2022-07-25,All,2746666,226022
+38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2022-07-25,All,13696719,232973
+38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2022-07-25,All,3567487,230065
+38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2022-07-25,All,24347743,242011
+38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2022-07-25,All,3401268,222994
+38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2022-07-25,All,717719,234842
+38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2022-07-25,All,1124472,211240
+38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2022-07-25,All,1264809,233610
+38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2022-07-25,All,10292538,236262
+38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2022-07-25,All,9489905,235536
+38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2022-07-25,All,3777194,230374
+38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2022-07-25,All,10515275,210310
+38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2022-07-25,All,8967548,240439
+38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2022-07-25,All,2061464,233722
+38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2022-07-25,All,281629,224109
+38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2022-07-25,All,11240502,229124
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-07-25,All,1467366,49553
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-07-25,All,293328456,231923
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2022-07-25,All,10027401,98277
@@ -377,24 +377,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-07-25,All,1319686,210820
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-07-25,All,2369775,8557
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-07-25,All,3171945,16581
-458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-25,All,71728482,221616
-45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-07-25,All,8792972,233346
-45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-07-25,All,4094931,187333
-45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-07-25,All,2805507,148266
-45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",2022-07-25,All,2124229,227750
-45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",2022-07-25,All,2714611,239785
-45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",2022-07-25,All,3156264,188197
-45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2022-07-25,All,5170305,205635
-45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",2022-07-25,All,509231,200012
-45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4164,100.3327,"Pulau Pinang, Malaysia",2022-07-25,All,4330804,243632
-45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",2022-07-25,All,5933878,151967
-45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-07-25,All,6509605,230992
-45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",2022-07-25,All,14537731,222224
-45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",2022-07-25,All,2203733,176284
+458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-25,All,71744758,221667
+45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-07-25,All,8794824,233395
+45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-07-25,All,4095540,187361
+45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-07-25,All,2805853,148285
+45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",2022-07-25,All,2124847,227816
+45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",2022-07-25,All,2715265,239843
+45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",2022-07-25,All,3156886,188234
+45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2022-07-25,All,5171415,205680
+45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",2022-07-25,All,509274,200029
+45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4164,100.3327,"Pulau Pinang, Malaysia",2022-07-25,All,4331229,243656
+45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",2022-07-25,All,5934596,151985
+45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-07-25,All,6511039,231043
+45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",2022-07-25,All,14541678,222285
+45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",2022-07-25,All,2203980,176304
 45817,MY,MYS,458,,,Unknown,Malaysia,,,"Unknown, Malaysia",2022-07-25,All,0,0
-45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",2022-07-25,All,8204707,461353
-45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",2022-07-25,All,224844,226201
-45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-07-25,All,415130,393861
+45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",2022-07-25,All,8208271,461553
+45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",2022-07-25,All,224862,226219
+45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-07-25,All,415199,393926
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-07-25,All,948913,175548
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-07-25,All,2683868,13253
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-25,All,1326886,300513
