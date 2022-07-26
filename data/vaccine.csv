@@ -361,7 +361,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-07-26,All,1077116,50279
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-07-26,All,2921554,57764
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-07-26,All,3667090,53368
-438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-07-26,All,71104,186443
+438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-07-26,All,71107,186451
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-07-26,All,4492076,165010
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-07-26,All,212115,
 44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-07-26,All,982959,
@@ -449,7 +449,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-07-26,All,5395207,154414
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-07-26,All,2545401,149638
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-07-26,All,24617451,241425
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-07-26,All,7302701,253472
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-07-26,All,7304243,253526
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-07-26,All,16827486,87471
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-07-26,All,170172145,116608
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-07-26,All,,0
@@ -573,34 +573,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-07-26,All,8179010,18652
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-07-26,All,554588,94537
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2022-07-26,All,22674504,224516
-756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,2022-07-26,All,15827520,182879
-75601,CH,CHE,756,,,Aargau,Switzerland,47.3877,8.2554,"Aargau, Switzerland",2022-07-26,All,1258084,183435
-75602,CH,CHE,756,,,Appenzell Ausserrhoden,Switzerland,47.3665,9.3001,"Appenzell Ausserrhoden, Switzerland",2022-07-26,All,92686,167167
-75603,CH,CHE,756,,,Appenzell Innerrhoden,Switzerland,47.3162,9.4317,"Appenzell Innerrhoden, Switzerland",2022-07-26,All,23928,148363
-75604,CH,CHE,756,,,Basel-Landschaft,Switzerland,47.4418,7.7644,"Basel-Landschaft, Switzerland",2022-07-26,All,545222,187512
-75605,CH,CHE,756,,,Basel-Stadt,Switzerland,47.5596,7.5886,"Basel-Stadt, Switzerland",2022-07-26,All,427157,212021
-75606,CH,CHE,756,,,Berne,Switzerland,46.948,7.4474,"Berne, Switzerland",2022-07-26,All,1993890,192650
-75607,CH,CHE,756,,,Fribourg,Switzerland,46.8065,7.162000000000001,"Fribourg, Switzerland",2022-07-26,All,506945,157542
-75608,CH,CHE,756,,,Geneva,Switzerland,46.2044,6.1432,"Geneva, Switzerland",2022-07-26,All,974629,193329
-75609,CH,CHE,756,,,Glarus,Switzerland,47.0411,9.0679,"Glarus, Switzerland",2022-07-26,All,64824,159704
-75610,CH,CHE,756,,,Grisons,Switzerland,46.657,9.578,"Grisons, Switzerland",2022-07-26,All,368095,184952
-75611,CH,CHE,756,,,Jura,Switzerland,47.3444,7.1431,"Jura, Switzerland",2022-07-26,All,122948,167085
-75612,CH,CHE,756,,,Lucerne,Switzerland,47.0502,8.3093,"Lucerne, Switzerland",2022-07-26,All,741842,179570
-75613,CH,CHE,756,,,Neuchatel,Switzerland,46.99,6.9293,"Neuchatel, Switzerland",2022-07-26,All,314605,178250
-75614,CH,CHE,756,,,Nidwalden,Switzerland,46.9267,8.385,"Nidwalden, Switzerland",2022-07-26,All,75942,176252
+756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,2022-07-26,All,15860904,183265
+75601,CH,CHE,756,,,Aargau,Switzerland,47.3877,8.2554,"Aargau, Switzerland",2022-07-26,All,1260095,183728
+75602,CH,CHE,756,,,Appenzell Ausserrhoden,Switzerland,47.3665,9.3001,"Appenzell Ausserrhoden, Switzerland",2022-07-26,All,92687,167169
+75603,CH,CHE,756,,,Appenzell Innerrhoden,Switzerland,47.3162,9.4317,"Appenzell Innerrhoden, Switzerland",2022-07-26,All,23961,148567
+75604,CH,CHE,756,,,Basel-Landschaft,Switzerland,47.4418,7.7644,"Basel-Landschaft, Switzerland",2022-07-26,All,546360,187904
+75605,CH,CHE,756,,,Basel-Stadt,Switzerland,47.5596,7.5886,"Basel-Stadt, Switzerland",2022-07-26,All,428381,212628
+75606,CH,CHE,756,,,Berne,Switzerland,46.948,7.4474,"Berne, Switzerland",2022-07-26,All,1998088,193056
+75607,CH,CHE,756,,,Fribourg,Switzerland,46.8065,7.162000000000001,"Fribourg, Switzerland",2022-07-26,All,509791,158426
+75608,CH,CHE,756,,,Geneva,Switzerland,46.2044,6.1432,"Geneva, Switzerland",2022-07-26,All,976841,193768
+75609,CH,CHE,756,,,Glarus,Switzerland,47.0411,9.0679,"Glarus, Switzerland",2022-07-26,All,64912,159921
+75610,CH,CHE,756,,,Grisons,Switzerland,46.657,9.578,"Grisons, Switzerland",2022-07-26,All,368889,185351
+75611,CH,CHE,756,,,Jura,Switzerland,47.3444,7.1431,"Jura, Switzerland",2022-07-26,All,123107,167301
+75612,CH,CHE,756,,,Lucerne,Switzerland,47.0502,8.3093,"Lucerne, Switzerland",2022-07-26,All,743206,179900
+75613,CH,CHE,756,,,Neuchatel,Switzerland,46.99,6.9293,"Neuchatel, Switzerland",2022-07-26,All,315139,178553
+75614,CH,CHE,756,,,Nidwalden,Switzerland,46.9267,8.385,"Nidwalden, Switzerland",2022-07-26,All,76119,176663
 75615,CH,CHE,756,,,Obwalden,Switzerland,46.8779,8.2512,"Obwalden, Switzerland",2022-07-26,All,55077,145206
-75616,CH,CHE,756,,,Schaffhausen,Switzerland,47.6959,8.638,"Schaffhausen, Switzerland",2022-07-26,All,160609,195036
-75617,CH,CHE,756,,,Schwyz,Switzerland,47.0207,8.652999999999999,"Schwyz, Switzerland",2022-07-26,All,245536,153001
-75618,CH,CHE,756,,,Solothurn,Switzerland,47.2088,7.5323,"Solothurn, Switzerland",2022-07-26,All,492442,178909
-75619,CH,CHE,756,,,St. Gallen,Switzerland,47.4245,9.3767,"St. Gallen, Switzerland",2022-07-26,All,838300,164136
-75620,CH,CHE,756,,,Thurgau,Switzerland,47.6038,9.0557,"Thurgau, Switzerland",2022-07-26,All,452046,161706
-75621,CH,CHE,756,,,Ticino,Switzerland,46.3317,8.8005,"Ticino, Switzerland",2022-07-26,All,678311,192981
-75627,CH,CHE,756,,,Unknown,Switzerland,,,"Unknown, Switzerland",2022-07-26,All,15250,
-75622,CH,CHE,756,,,Uri,Switzerland,46.7739,8.6025,"Uri, Switzerland",2022-07-26,All,62446,170138
-75623,CH,CHE,756,,,Valais,Switzerland,46.1905,7.5449,"Valais, Switzerland",2022-07-26,All,596504,172637
-75624,CH,CHE,756,,,Vaud,Switzerland,46.5613,6.5368,"Vaud, Switzerland",2022-07-26,All,1480791,183926
-75625,CH,CHE,756,,,Zug,Switzerland,47.1662,8.5155,"Zug, Switzerland",2022-07-26,All,247611,193988
-75626,CH,CHE,756,,,Zurich,Switzerland,47.3769,8.5417,"Zurich, Switzerland",2022-07-26,All,2991800,196703
+75616,CH,CHE,756,,,Schaffhausen,Switzerland,47.6959,8.638,"Schaffhausen, Switzerland",2022-07-26,All,161330,195912
+75617,CH,CHE,756,,,Schwyz,Switzerland,47.0207,8.652999999999999,"Schwyz, Switzerland",2022-07-26,All,246079,153339
+75618,CH,CHE,756,,,Solothurn,Switzerland,47.2088,7.5323,"Solothurn, Switzerland",2022-07-26,All,493050,179130
+75619,CH,CHE,756,,,St. Gallen,Switzerland,47.4245,9.3767,"St. Gallen, Switzerland",2022-07-26,All,839279,164328
+75620,CH,CHE,756,,,Thurgau,Switzerland,47.6038,9.0557,"Thurgau, Switzerland",2022-07-26,All,452682,161934
+75621,CH,CHE,756,,,Ticino,Switzerland,46.3317,8.8005,"Ticino, Switzerland",2022-07-26,All,680777,193682
+75627,CH,CHE,756,,,Unknown,Switzerland,,,"Unknown, Switzerland",2022-07-26,All,15251,
+75622,CH,CHE,756,,,Uri,Switzerland,46.7739,8.6025,"Uri, Switzerland",2022-07-26,All,62539,170392
+75623,CH,CHE,756,,,Valais,Switzerland,46.1905,7.5449,"Valais, Switzerland",2022-07-26,All,597194,172836
+75624,CH,CHE,756,,,Vaud,Switzerland,46.5613,6.5368,"Vaud, Switzerland",2022-07-26,All,1482927,184192
+75625,CH,CHE,756,,,Zug,Switzerland,47.1662,8.5155,"Zug, Switzerland",2022-07-26,All,248191,194443
+75626,CH,CHE,756,,,Zurich,Switzerland,47.3769,8.5417,"Zurich, Switzerland",2022-07-26,All,2998952,197173
 760,SY,SYR,760,,,,Syria,34.802075,38.996815000000005,Syria,2022-07-26,All,4256291,24320
 158,TW,TWN,158,,,,Taiwan*,23.7,121.0,Taiwan*,2022-07-26,All,59290207,248943
 762,TJ,TJK,762,,,,Tajikistan,38.861,71.2761,Tajikistan,2022-07-26,All,13782905,144510
@@ -686,7 +686,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-07-26,All,12956204,237149
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-07-26,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-07-26,All,7392903,235547
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-26,All,8708791,250704
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-26,All,8709119,250713
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-07-26,All,58191020,173864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-07-26,All,309433,105724
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-07-26,All,37860994,133144
