@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-07-28,All,2356138,14344
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-07-28,All,60927265,318720
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-07-28,All,3432936799,244393
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-07-28,All,18028032,240470
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-07-28,All,18040493,240636
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-07-28,All,1446970,222836
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-07-28,All,86760391,170509
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-07-28,All,140636,183624
@@ -147,7 +147,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-07-28,All,79745,140465
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-07-28,All,233734,23657
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-07-28,All,66992,93056
-214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-07-28,All,15865525,146254
+214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-07-28,All,15869795,146293
 218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-07-28,All,36525038,207022
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-07-28,All,94288193,92137
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-07-28,All,11127982,171563
@@ -350,7 +350,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2022-07-28,All,7140000,265920
 39821,KZ,KAZ,398,,,Ulytau,Kazakhstan,48.0445,65.6599,"Ulytau, Kazakhstan",2022-07-28,All,0,0
 39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568,50.8067,"West Kazakhstan, Kazakhstan",2022-07-28,All,584581,88998
-404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2022-07-28,All,19826245,36871
+404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2022-07-28,All,20001745,37197
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2022-07-28,All,151235,128594
 410,KR,KOR,410,,,,"Korea, South",35.907757000000004,127.766922,"Korea, South",2022-07-28,All,128050297,249760
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2022-07-28,All,1834028,101307
