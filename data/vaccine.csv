@@ -126,22 +126,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-07-28,All,5263608,128215
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000001,Cuba,2022-07-28,All,39240498,346445
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-07-28,All,1807689,149722
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-07-28,All,17733932,165598
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-07-28,All,1067535,167466
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-07-28,All,1982063,169437
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-07-28,All,469141,159946
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-07-28,All,912968,164296
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-07-28,All,700401,159449
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-07-28,All,1796431,145339
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-07-28,All,921980,144071
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-07-28,All,804025,159123
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-07-28,All,970364,164178
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-07-28,All,3266132,256632
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-07-28,All,1895750,148729
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-07-28,All,17742386,165677
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-07-28,All,1067681,167489
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-07-28,All,1983095,169526
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-07-28,All,469390,160031
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-07-28,All,913155,164330
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-07-28,All,700680,159513
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-07-28,All,1797463,145422
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-07-28,All,922455,144145
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-07-28,All,804265,159170
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-07-28,All,970829,164257
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-07-28,All,3268429,256812
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-07-28,All,1896475,148785
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-07-28,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-07-28,All,1269087,152833
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-07-28,All,805525,157106
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-07-28,All,872530,147771
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-07-28,All,1269698,152907
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-07-28,All,805756,157151
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-07-28,All,873015,147853
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-07-28,All,13224417,228314
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2022-07-28,All,103894,212614
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-07-28,All,79745,140465
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-07-28,All,14700875,148424
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-07-28,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-07-28,All,832713,244018
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-07-28,All,2032205098,147260
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-07-28,All,2032207095,147260
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-07-28,All,754173,180841
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-07-28,All,99918188,185365
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-07-28,All,1794808,114285
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-07-28,All,118066468,151675
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-07-28,All,65041196,165235
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-07-28,All,5587692,134004
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-07-28,All,5274377,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-07-28,All,5276374,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-07-28,All,347515967,146087
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-07-28,All,18725054,166432
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-07-28,All,147733190,148312
@@ -569,7 +569,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-07-28,All,1331907,204925
 72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-07-28,All,4440949,203911
 72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-07-28,All,221058,
-144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2022-07-28,All,39677917,185296
+144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2022-07-28,All,39682493,185317
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-07-28,All,8179010,18652
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-07-28,All,554588,94537
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2022-07-28,All,22674504,224516
