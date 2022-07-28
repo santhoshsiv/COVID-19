@@ -44,7 +44,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-28,All,18683895,207451
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-28,All,13810252,136206
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-28,All,346253,88049
-48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-07-28,All,3460361,203361
+48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-07-28,All,3460604,203375
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2022-07-28,All,372971,129787
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2022-07-28,All,13394906,141755
 56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-07-28,All,25721980,221939
@@ -677,7 +677,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2022-07-28,All,147211,223997
 8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2022-07-28,All,237658,139389
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2022-07-28,All,126231924,225505
-238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-07-28,All,9390,126528
+238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-07-28,All,9390,269595
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2022-07-28,All,119855,355747
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2022-07-28,All,189994,223438
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",2022-07-28,All,4487,89757
@@ -686,7 +686,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-07-28,All,12967921,237364
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-07-28,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-07-28,All,7400381,235786
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-28,All,8711770,250790
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-07-28,All,8711825,250791
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-07-28,All,58191020,173864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-07-28,All,313449,107096
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-07-28,All,37860994,133144
