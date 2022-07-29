@@ -63,18 +63,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-07-29,All,802216,144286
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-07-29,All,41584033,248723
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-07-29,All,1849562,6967
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-07-29,All,87077837,230025
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-07-29,All,8942981,202644
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-07-29,All,12164203,238004
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-07-29,All,87412791,230910
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-07-29,All,8978340,203445
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-07-29,All,12206980,238841
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-07-29,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-07-29,All,1757172,225280
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2022-07-29,All,1264499,242536
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-07-29,All,102863,229073
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-07-29,All,2235685,228724
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-07-29,All,77083,198769
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-07-29,All,34060480,231517
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-07-29,All,34259007,232867
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-07-29,All,391227,247364
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-07-29,All,20598293,241263
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-07-29,All,20656584,241946
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-07-29,All,2527074,213856
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-07-29,All,92743,225772
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-07-29,All,1392969,28841
@@ -126,22 +126,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-07-29,All,5263780,128220
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000001,Cuba,2022-07-29,All,39240498,346445
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-07-29,All,1807689,149722
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-07-29,All,17742386,165677
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-07-29,All,1067681,167489
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-07-29,All,1983095,169526
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-07-29,All,469390,160031
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-07-29,All,913155,164330
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-07-29,All,700680,159513
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-07-29,All,1797463,145422
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-07-29,All,922455,144145
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-07-29,All,804265,159170
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-07-29,All,970829,164257
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-07-29,All,3268429,256812
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-07-29,All,1896475,148785
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-07-29,All,17749573,165744
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-07-29,All,1068139,167561
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-07-29,All,1983970,169600
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-07-29,All,469528,160078
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-07-29,All,913461,164385
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-07-29,All,700871,159556
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-07-29,All,1798144,145477
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-07-29,All,922706,144184
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-07-29,All,804613,159239
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-07-29,All,971174,164315
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-07-29,All,3270078,256942
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-07-29,All,1897403,148858
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-07-29,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-07-29,All,1269698,152907
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-07-29,All,805756,157151
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-07-29,All,873015,147853
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-07-29,All,1270042,152948
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-07-29,All,806073,157212
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-07-29,All,873371,147913
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-07-29,All,13222964,228289
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2022-07-29,All,103894,212614
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-07-29,All,79745,140465
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-07-29,All,14700875,148424
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-07-29,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-07-29,All,832713,244018
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-07-29,All,2036058283,147539
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-07-29,All,2036059354,147540
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-07-29,All,760951,182466
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-07-29,All,100021605,185557
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-07-29,All,1797954,114485
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-07-29,All,118203586,151852
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-07-29,All,65187184,165606
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-07-29,All,5599702,134292
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-07-29,All,5276374,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-07-29,All,5277445,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-07-29,All,348060324,146315
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-07-29,All,18779228,166913
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-07-29,All,147949556,148529
