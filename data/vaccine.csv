@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-07-30,All,396975,275701
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-07-30,All,3497019,225401
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-07-30,All,2150112,72559
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-30,All,62202263,244316
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-30,All,1635428,382020
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-30,All,19327114,238077
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-30,All,605909,246705
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-30,All,11798527,230642
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-30,All,4344558,247341
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-30,All,1415183,264273
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-30,All,62277184,244610
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-30,All,1637724,382556
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-30,All,19350361,238363
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-30,All,606324,246874
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-30,All,11813821,230941
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-30,All,4350011,247652
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-30,All,1416902,264594
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-07-30,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-30,All,16260899,245266
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-30,All,6814645,259052
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-30,All,16279870,245552
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-30,All,6822171,259338
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-30,All,18683895,207451
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-30,All,13812358,136227
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-30,All,346253,88049
@@ -377,8 +377,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-07-30,All,1319686,210820
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-07-30,All,2369775,8557
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-07-30,All,3171945,16581
-458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-30,All,71819403,221897
-45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-07-30,All,8802378,233596
+458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-07-30,All,71819404,221897
+45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-07-30,All,8802379,233596
 45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-07-30,All,4098321,187488
 45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-07-30,All,2807272,148360
 45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",2022-07-30,All,2126935,228040
