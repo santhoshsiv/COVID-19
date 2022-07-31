@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-07-31,All,397334,275951
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-07-31,All,3507186,226057
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-07-31,All,2150112,72559
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-31,All,62277184,244610
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-31,All,1637724,382556
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-31,All,19350361,238363
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-31,All,606324,246874
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-31,All,11813821,230941
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-31,All,4350011,247652
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-31,All,1416902,264594
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-07-31,All,62308753,244734
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-07-31,All,1638647,382772
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-07-31,All,19361128,238496
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-07-31,All,606354,246886
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-07-31,All,11818603,231035
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-07-31,All,4352081,247770
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-07-31,All,1418082,264814
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-07-31,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-31,All,16279870,245552
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-31,All,6822171,259338
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-07-31,All,16287697,245670
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-07-31,All,6826161,259490
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-07-31,All,18683895,207451
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-07-31,All,13816323,136266
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-07-31,All,346253,88049
@@ -397,7 +397,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-07-31,All,415746,394445
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-07-31,All,949382,175635
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-07-31,All,2683868,13253
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-31,All,1329342,301070
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-07-31,All,1329728,301157
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-07-31,All,80518,137842
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-07-31,All,2853551,61371
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-07-31,All,2564102,201617
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-07-31,All,24617451,241425
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-07-31,All,7320197,254079
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-07-31,All,16827486,87471
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-07-31,All,170615601,116912
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-07-31,All,170479818,116819
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-07-31,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-07-31,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-07-31,All,,0
@@ -522,7 +522,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-07-31,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-07-31,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-07-31,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-07-31,All,170615601,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-07-31,All,170479818,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-07-31,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-07-31,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-07-31,All,,0
