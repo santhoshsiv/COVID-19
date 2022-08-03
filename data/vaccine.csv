@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-08-03,All,14730793,148726
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-08-03,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-08-03,All,834104,244426
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-08-03,All,2048429608,148436
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-08-03,All,2048430732,148436
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-08-03,All,796983,191106
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-08-03,All,100706785,186828
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-08-03,All,1805656,114976
@@ -234,7 +234,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-08-03,All,143435223,114932
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2022-08-03,All,2232097,192675
 35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-08-03,All,43687309,148413
-35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-08-03,All,1497409,243194
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-08-03,All,1498533,243377
 35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-08-03,All,35883327,191777
 35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-08-03,All,2821914,177898
 35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-08-03,All,117175364,183452
