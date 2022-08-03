@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-08-03,All,2356138,14344
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-08-03,All,61141559,319841
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-08-03,All,3432936799,244393
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-08-03,All,18102398,241462
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-08-03,All,18115265,241633
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-08-03,All,1451386,223516
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-08-03,All,86760391,170509
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-08-03,All,140636,183624
@@ -172,7 +172,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2022-08-03,All,684176,58972
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-08-03,All,52192941,45399
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-08-03,All,1519291,169479
-246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-08-03,All,12203932,220259
+246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-08-03,All,12315719,222276
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-08-03,All,150577493,230686
 25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-08-03,All,16973575,
 25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-08-03,All,8034348,
@@ -686,7 +686,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-08-03,All,12967921,237364
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-08-03,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-08-03,All,7400381,235786
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-03,All,8714950,250881
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-03,All,8714966,250882
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-08-03,All,58191020,173864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-08-03,All,313449,107096
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-08-03,All,37860994,133144
