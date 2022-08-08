@@ -63,9 +63,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-08-08,All,823283,148075
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-08-08,All,41897973,250601
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-08-08,All,1854436,6985
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-08,All,87412791,230910
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-08,All,8978340,203445
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-08-08,All,12206980,238841
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-08,All,87460781,231037
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-08,All,8999088,203915
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-08-08,All,12234222,239374
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-08-08,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-08-08,All,1757172,225280
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2022-08-08,All,1264499,242536
