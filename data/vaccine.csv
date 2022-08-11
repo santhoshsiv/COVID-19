@@ -399,7 +399,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-08-11,All,85744,327005
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-08-11,All,255056,155427
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-08-11,All,64027,149309
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-08-11,All,11558793,239697
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-08-11,All,11568065,239890
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-08-11,All,39780,227848
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2022-08-11,All,11639529,175702
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,2022-08-11,All,4532244,18723
@@ -589,7 +589,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 158,TW,TWN,158,,,,Taiwan*,23.7,121.0,Taiwan*,2022-08-11,All,59938508,251665
 762,TJ,TJK,762,,,,Tajikistan,38.861,71.2761,Tajikistan,2022-08-11,All,13782905,144510
 834,TZ,TZA,834,,,,Tanzania,-6.369028,34.888822,Tanzania,2022-08-11,All,16871609,28244
-764,TH,THA,764,,,,Thailand,15.870032,100.992541,Thailand,2022-08-11,All,141913395,203314
+764,TH,THA,764,,,,Thailand,15.870032,100.992541,Thailand,2022-08-11,All,142009950,203452
 626,TL,TLS,626,,,,Timor-Leste,-8.874217,125.727539,Timor-Leste,2022-08-11,All,1766617,133992
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2022-08-11,All,3290821,39750
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-08-11,All,1577910,112748
