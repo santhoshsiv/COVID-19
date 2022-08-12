@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-08-12,All,2356138,14344
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-08-12,All,61444584,321426
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-08-12,All,3438923503,244819
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-08-12,All,18241731,243320
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-08-12,All,18260850,243575
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-08-12,All,1462770,225269
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-08-12,All,86760391,170509
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-08-12,All,140636,183624
@@ -433,7 +433,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-08-12,All,5477667,156774
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-08-12,All,2592751,152422
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-08-12,All,24617451,241425
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-08-12,All,7347654,255033
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-08-12,All,7353777,255245
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-08-12,All,16827486,87471
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-08-12,All,172051248,117896
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-08-12,All,,0
