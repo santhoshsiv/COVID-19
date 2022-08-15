@@ -63,8 +63,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-08-15,All,839348,150965
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-08-15,All,41897973,250601
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-08-15,All,1854436,6985
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-15,All,87589762,231377
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-15,All,8999088,203915
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-15,All,87901586,232201
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-15,All,9039069,204821
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-08-15,All,12234222,239374
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-08-15,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-08-15,All,1757172,225280
@@ -72,9 +72,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-08-15,All,102863,229073
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-08-15,All,2235685,228724
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-08-15,All,77083,198769
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-08-15,All,34387988,233743
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-08-15,All,34507358,234555
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-08-15,All,391227,247364
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-08-15,All,20656584,241946
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-08-15,All,20809057,243732
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-08-15,All,2527074,213856
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-08-15,All,92743,225772
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-08-15,All,1392969,28841
@@ -670,7 +670,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-08-15,All,12986820,237710
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-08-15,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-08-15,All,7420622,236430
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-15,All,8720723,251048
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-15,All,8720727,251048
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-08-15,All,58191020,173864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-08-15,All,318805,108926
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-08-15,All,37860994,133144
