@@ -414,24 +414,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2022-08-15,All,9313856,130582
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2022-08-15,All,81781715,248034
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2022-08-15,All,158195420,144363
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-08-15,All,55700431,147174
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-08-15,All,4468365,154016
-61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-08-15,All,3018580,145279
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-08-15,All,3631178,147230
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-08-15,All,2539309,119913
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-08-15,All,1553739,153145
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-08-15,All,4644427,136577
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-08-15,All,8863433,164034
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-08-15,All,1295538,131325
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-08-15,All,2254471,105892
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-08-15,All,1544419,130713
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-08-15,All,3702000,158644
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-08-15,All,6593193,145430
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-08-15,All,1567922,126287
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-08-15,All,55702314,147179
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-08-15,All,4468426,154018
+61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-08-15,All,3018757,145287
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-08-15,All,3631241,147233
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-08-15,All,2539398,119917
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-08-15,All,1553757,153147
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-08-15,All,4644515,136580
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-08-15,All,8863570,164036
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-08-15,All,1295698,131342
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-08-15,All,2254489,105893
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-08-15,All,1544420,130713
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-08-15,All,3702062,158646
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-08-15,All,6593452,145436
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-08-15,All,1568205,126310
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2022-08-15,All,8,
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-08-15,All,1931953,135197
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-08-15,All,5491458,157169
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-08-15,All,2600428,152873
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-08-15,All,1932222,135216
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-08-15,All,5491586,157173
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-08-15,All,2600512,152878
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-08-15,All,24617451,241425
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-08-15,All,7354330,255264
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-08-15,All,16827486,87471
