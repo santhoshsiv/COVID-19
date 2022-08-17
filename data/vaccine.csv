@@ -530,7 +530,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-08-17,All,7080956,129696
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2022-08-17,All,482043,73835
 706,SO,SOM,706,,,,Somalia,5.152149,46.199616,Somalia,2022-08-17,All,3648859,22958
-710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-08-17,All,37331317,62944
+710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-08-17,All,37356903,62987
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2022-08-17,All,1563496,13967
 724,ES,ESP,724,,,,Spain,40.463667,-3.74922,Spain,2022-08-17,All,102480315,219186
 72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-08-17,All,17314642,205456
@@ -670,7 +670,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-08-17,All,12986820,237710
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-08-17,All,70169,181230
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-08-17,All,7420622,236430
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-17,All,8722433,251097
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-08-17,All,8722518,251099
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-08-17,All,58191020,173864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-08-17,All,318805,108926
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-08-17,All,37860994,133144
