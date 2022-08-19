@@ -399,7 +399,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-08-19,All,85744,327005
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-08-19,All,255166,155494
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-08-19,All,64027,149309
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-08-19,All,11616355,240891
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-08-19,All,11624343,241057
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-08-19,All,39780,227848
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2022-08-19,All,11660036,176012
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,2022-08-19,All,4532244,18723
@@ -632,7 +632,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2022-08-19,All,4176525,199182
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2022-08-19,All,40907321,210281
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2022-08-19,All,17594188,167754
-84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2022-08-19,All,1151867,151151
+84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2022-08-19,All,1155377,151611
 580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2022-08-19,All,112073,203236
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2022-08-19,All,18905582,161736
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2022-08-19,All,6175823,156074
