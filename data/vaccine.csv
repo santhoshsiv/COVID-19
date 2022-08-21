@@ -44,7 +44,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-08-21,All,18994035,210894
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-08-21,All,13844344,136543
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-08-21,All,355958,90517
-48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-08-21,All,3465358,203654
+48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-08-21,All,3465615,203670
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2022-08-21,All,373390,129933
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2022-08-21,All,13981294,147960
 56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-08-21,All,25755727,222231
@@ -56,7 +56,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-08-21,All,2871301,122098
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-08-21,All,468934118,220613
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2022-08-21,All,1190890,272214
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-08-21,All,4511402,64926
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-08-21,All,4511467,64927
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,2022-08-21,All,3134621,14995
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-08-21,All,64549994,118636
 108,BI,BDI,108,,,,Burundi,-3.3731,29.9189,Burundi,2022-08-21,All,19612,164
@@ -435,7 +435,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-08-21,All,24840804,243615
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-08-21,All,7366272,255679
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-08-21,All,16827486,87471
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-08-21,All,172720832,118355
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-08-21,All,172776605,118393
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-08-21,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-08-21,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-08-21,All,,0
@@ -506,7 +506,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-08-21,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-08-21,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-08-21,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-08-21,All,172720832,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-08-21,All,172776605,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-08-21,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-08-21,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-08-21,All,,0
