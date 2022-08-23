@@ -210,7 +210,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-08-23,All,15020339,151650
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-08-23,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-08-23,All,836396,245097
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-08-23,All,2103178338,152403
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-08-23,All,2103178339,152403
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-08-23,All,903199,216575
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-08-23,All,104164864,193243
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-08-23,All,1841293,117245
@@ -223,7 +223,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-08-23,All,2850678,179711
 35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-08-23,All,121373845,190025
 35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-08-23,All,45044130,159704
-35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-08-23,All,14504241,194636
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-08-23,All,14504242,194636
 35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-08-23,All,24116695,177246
 35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-08-23,All,42054907,108967
 35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-08-23,All,118070602,174757
