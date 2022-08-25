@@ -51,7 +51,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2022-08-25,All,497703,125170
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,2022-08-25,All,3681560,30367
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2022-08-25,All,1922660,249174
-68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2022-08-25,All,14862375,127322
+68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2022-08-25,All,14893047,127585
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2022-08-25,All,1924950,58672
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-08-25,All,2871301,122098
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-08-25,All,468934118,220613
@@ -63,8 +63,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-08-25,All,839348,150965
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-08-25,All,42893177,256553
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-08-25,All,1854436,6985
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-25,All,88112333,232758
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-25,All,9141292,207137
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-08-25,All,88139991,232831
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-08-25,All,9168950,207764
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-08-25,All,12283721,240342
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-08-25,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-08-25,All,1757172,225280
