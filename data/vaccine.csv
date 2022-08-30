@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-08-30,All,400409,278086
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-08-30,All,3542438,228329
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-08-30,All,2150112,72559
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-08-30,All,63121445,247926
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-08-30,All,1674445,391134
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-08-30,All,19621969,241709
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-08-30,All,613505,249798
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-08-30,All,11967523,233946
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-08-30,All,4409002,251010
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-08-30,All,1440008,268909
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-08-30,All,63139054,247996
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-08-30,All,1675319,391338
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-08-30,All,19627890,241782
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-08-30,All,613711,249882
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-08-30,All,11970469,234003
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-08-30,All,4410316,251085
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-08-30,All,1440554,269011
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-08-30,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-08-30,All,16491016,248737
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-08-30,All,6903977,262448
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-08-30,All,16495092,248798
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-08-30,All,6905703,262514
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-08-30,All,19044865,211459
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-08-30,All,13857111,136669
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-08-30,All,357101,90808
@@ -136,23 +136,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-08-30,All,97076742,94862
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-08-30,All,11127982,171563
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-08-30,All,488738,34835
-233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-08-30,All,2020205,152291
-23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-08-30,All,894682,147874
-23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-08-30,All,18720,200966
-23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-08-30,All,163558,121822
-23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-08-30,All,46739,154898
-23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2022-08-30,All,45968,161620
-23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-08-30,All,32514,159039
-23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2022-08-30,All,90370,153528
-23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2022-08-30,All,121048,140451
-23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-08-30,All,36794,149283
-23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-08-30,All,49983,150180
-23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-08-30,All,52361,158271
-23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-08-30,All,261332,170452
-23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2022-08-30,All,48267,
-23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-08-30,All,38546,136668
-23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-08-30,All,71401,154678
-23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-08-30,All,47922,135315
+233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-08-30,All,2025899,152720
+23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-08-30,All,897282,148303
+23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-08-30,All,18795,201771
+23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-08-30,All,163879,122061
+23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-08-30,All,46924,155511
+23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2022-08-30,All,46097,162073
+23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-08-30,All,32632,159616
+23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2022-08-30,All,90570,153868
+23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2022-08-30,All,121301,140744
+23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-08-30,All,36917,149782
+23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-08-30,All,50093,150510
+23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-08-30,All,52429,158477
+23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-08-30,All,262175,171001
+23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2022-08-30,All,48484,
+23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-08-30,All,38681,137147
+23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-08-30,All,71632,155178
+23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-08-30,All,48008,135558
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2022-08-30,All,764657,65909
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-08-30,All,52509414,45674
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-08-30,All,1536409,171389
@@ -209,7 +209,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 332,HT,HTI,332,,,,Haiti,18.9712,-72.2852,Haiti,2022-08-30,All,362130,3175
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-08-30,All,15177956,153241
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-08-30,All,16530488,171116
-352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-08-30,All,837283,245357
+352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-08-30,All,838276,245648
 356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-08-30,All,2122859565,153829
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-08-30,All,939262,225223
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-08-30,All,105662120,196021
@@ -381,7 +381,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-08-30,All,417666,396267
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-08-30,All,950159,175778
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-08-30,All,2894939,14295
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-08-30,All,1334109,302149
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-08-30,All,1334161,302161
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-08-30,All,92091,157654
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-08-30,All,3085578,66361
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-08-30,All,2572824,202303
