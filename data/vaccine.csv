@@ -63,8 +63,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-09-01,All,839348,150965
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-09-01,All,42963164,256972
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-09-01,All,1854436,6985
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-09-01,All,88528141,233856
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-09-01,All,9168950,207764
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-09-01,All,88576529,233984
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-09-01,All,9194772,208349
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-09-01,All,12283721,240342
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-09-01,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-09-01,All,1757172,225280
@@ -74,7 +74,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-09-01,All,77083,198769
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-09-01,All,34687159,235777
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-09-01,All,391227,247364
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-09-01,All,21070123,246789
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-09-01,All,21092689,247054
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-09-01,All,2533382,214390
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-09-01,All,92743,225772
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-09-01,All,1392969,28841
@@ -399,7 +399,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-09-01,All,85882,327531
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-09-01,All,255314,155584
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-09-01,All,64027,149309
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-09-01,All,11685977,242335
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-09-01,All,11691255,242444
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-09-01,All,39780,227848
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2022-09-01,All,11707462,176728
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,2022-09-01,All,4532244,18723
