@@ -56,7 +56,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-09-05,All,2871301,122098
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-09-05,All,471817937,221969
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2022-09-05,All,1259753,287954
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-09-05,All,4526015,65137
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-09-05,All,4526050,65137
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,2022-09-05,All,3474679,16622
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-09-05,All,64549994,118636
 108,BI,BDI,108,,,,Burundi,-3.3731,29.9189,Burundi,2022-09-05,All,19612,164
@@ -399,7 +399,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-09-05,All,85882,327531
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-09-05,All,255514,155706
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-09-05,All,64027,149309
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-09-05,All,11696285,242549
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-09-05,All,11704665,242722
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-09-05,All,39780,227848
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2022-09-05,All,11736067,177160
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,2022-09-05,All,4532244,18723
