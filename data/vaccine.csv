@@ -63,7 +63,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-09-09,All,847122,152363
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-09-09,All,43167890,258197
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-09-09,All,1854436,6985
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-09-09,All,88807700,234595
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-09-09,All,88826564,234645
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-09-09,All,9217066,208854
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-09-09,All,12323527,241121
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-09-09,All,2863534,207876
@@ -74,7 +74,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-09-09,All,77083,198769
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-09-09,All,34765928,236312
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-09-09,All,391227,247364
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-09-09,All,21182991,248111
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-09-09,All,21201855,248332
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-09-09,All,2533382,214390
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-09-09,All,92743,225772
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-09-09,All,1392969,28841
