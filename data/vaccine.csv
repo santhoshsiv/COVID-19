@@ -381,7 +381,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-09-09,All,418242,396814
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-09-09,All,950693,175877
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-09-09,All,2946509,14550
-470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-09-09,All,1334537,302246
+470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-09-09,All,1334541,302247
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2022-09-09,All,101728,174153
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2022-09-09,All,3085578,66361
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-09-09,All,2574154,202407
@@ -414,24 +414,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2022-09-09,All,9332812,130848
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2022-09-09,All,83308125,252664
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2022-09-09,All,162067505,147897
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-09-09,All,56288257,148727
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-09-09,All,4522956,155898
-61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-09-09,All,3054202,146993
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-09-09,All,3670243,148814
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-09-09,All,2562432,121005
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-09-09,All,1570408,154788
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-09-09,All,4681106,137656
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-09-09,All,8955401,165736
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-09-09,All,1308022,132591
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-09-09,All,2267561,106507
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-09-09,All,1557018,131779
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-09-09,All,3744009,160444
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-09-09,All,6658837,146878
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-09-09,All,1582978,127500
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-09-09,All,56307962,148779
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-09-09,All,4524385,155947
+61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-09-09,All,3055224,147043
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-09-09,All,3671625,148870
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-09-09,All,2563345,121048
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-09-09,All,1570964,154843
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-09-09,All,4682572,137699
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-09-09,All,8958454,165792
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-09-09,All,1308686,132658
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-09-09,All,2268031,106529
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-09-09,All,1557547,131824
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-09-09,All,3745099,160491
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-09-09,All,6661244,146931
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-09-09,All,1583486,127541
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2022-09-09,All,8,
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-09-09,All,1955394,136838
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-09-09,All,5567422,159343
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-09-09,All,2630264,154627
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-09-09,All,1956489,136914
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-09-09,All,5569535,159404
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-09-09,All,2631268,154686
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-09-09,All,24899295,244189
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-09-09,All,7426608,257773
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-09-09,All,16827486,87471
