@@ -210,44 +210,44 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-09-13,All,15479847,156289
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-09-13,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-09-13,All,838978,245854
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-09-13,All,2154823838,156146
-35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-09-13,All,972285,233141
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-09-13,All,107822017,200028
-35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-09-13,All,1864957,118752
-35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-09-13,All,49871006,140059
-35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-09-13,All,153338750,122867
-35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2022-09-13,All,2271088,196041
-35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-09-13,All,47516784,161422
-35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-09-13,All,1564253,254051
-35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-09-13,All,36888422,197149
-35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-09-13,All,2860478,180329
-35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-09-13,All,125139883,195921
-35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-09-13,All,45278730,160536
-35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-09-13,All,14923701,200265
-35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-09-13,All,24455597,179737
-35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-09-13,All,42523617,110182
-35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-09-13,All,119108522,176293
-35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-09-13,All,57248607,160362
-35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2022-09-13,All,552785,201533
-35637,IN,IND,356,,,Lakshadweep,India,13.6999972,72.18333259999999,"Lakshadweep, India",2022-09-13,All,138285,214631
-35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-09-13,All,130520751,152908
-35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-09-13,All,176498325,143326
-35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-09-13,All,3207279,103743
-35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-09-13,All,2599338,77207
-35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",2022-09-13,All,1752107,141385
-35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-09-13,All,1719296,76423
-35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-09-13,All,77749265,167720
-35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-09-13,All,2146240,151834
-35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-09-13,All,46665105,154820
-35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-09-13,All,113888642,140546
-35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",2022-09-13,All,1330143,192704
-35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-09-13,All,124652235,160136
-35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-09-13,All,72230614,183500
-35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-09-13,All,5801175,139123
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-09-13,All,2155093250,156165
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-09-13,All,972635,233225
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-09-13,All,107850344,200080
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-09-13,All,1865456,118784
+35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-09-13,All,49873325,140065
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-09-13,All,153349332,122876
+35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2022-09-13,All,2271305,196060
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-09-13,All,47520989,161437
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-09-13,All,1564484,254088
+35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-09-13,All,36893715,197177
+35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-09-13,All,2860579,180335
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-09-13,All,125158346,195950
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-09-13,All,45281828,160547
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-09-13,All,14925982,200296
+35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-09-13,All,24457435,179750
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-09-13,All,42525839,110187
+35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-09-13,All,119112320,176298
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-09-13,All,57252165,160372
+35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2022-09-13,All,552919,201582
+35637,IN,IND,356,,,Lakshadweep,India,13.6999972,72.18333259999999,"Lakshadweep, India",2022-09-13,All,138376,214772
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-09-13,All,130523392,152911
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-09-13,All,176504277,143331
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-09-13,All,3207506,103750
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-09-13,All,2599415,77209
+35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",2022-09-13,All,1752312,141401
+35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-09-13,All,1719446,76430
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-09-13,All,77785703,167799
+35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-09-13,All,2149634,152074
+35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-09-13,All,46671226,154841
+35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-09-13,All,113900650,140561
+35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",2022-09-13,All,1330486,192753
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-09-13,All,124661111,160147
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-09-13,All,72262426,183580
+35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-09-13,All,5801364,139128
 35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-09-13,All,5291524,
-35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-09-13,All,379820908,159667
-35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-09-13,All,19665690,174792
-35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-09-13,All,154945434,155553
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-09-13,All,379883544,159693
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-09-13,All,19669331,174825
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-09-13,All,154952529,155560
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2022-09-13,All,401308016,146717
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2022-09-13,All,7533287,142814
 360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.092,"Bali, Indonesia",2022-09-13,All,9412762,218019
@@ -346,18 +346,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-09-13,All,2921554,57764
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-09-13,All,3704656,53915
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-09-13,All,71417,187264
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-09-13,All,4499155,165270
-44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-09-13,All,212258,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-09-13,All,984550,
-44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-09-13,All,433536,
-44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-09-13,All,192997,
-44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-09-13,All,336050,
-44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-09-13,All,390897,
-44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-09-13,All,122686,
-44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-09-13,All,164536,
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-09-13,All,4499301,165276
+44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-09-13,All,212266,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-09-13,All,984586,
+44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-09-13,All,433545,
+44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-09-13,All,192998,
+44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-09-13,All,336015,
+44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-09-13,All,390985,
+44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-09-13,All,122688,
+44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-09-13,All,164537,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-09-13,All,342,
-44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-09-13,All,199513,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-09-13,All,1461771,
+44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-09-13,All,199473,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-09-13,All,1461847,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-09-13,All,1343593,214639
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-09-13,All,1776296,6414
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-09-13,All,3171945,16581
