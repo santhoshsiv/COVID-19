@@ -156,7 +156,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2022-09-21,All,764657,65909
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-09-21,All,52509414,45674
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-09-21,All,1540254,171818
-246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-09-21,All,12778580,230630
+246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-09-21,All,12808871,231177
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-09-21,All,153044712,234466
 25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-09-21,All,17099711,
 25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-09-21,All,8113678,
@@ -414,7 +414,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2022-09-21,All,9386134,131596
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2022-09-21,All,83956940,254632
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2022-09-21,All,163734141,149418
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-09-21,All,56422328,149081
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-09-21,All,56434282,149113
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-09-21,All,4533470,156260
 61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-09-21,All,3062358,147386
 61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-09-21,All,3679108,149173
