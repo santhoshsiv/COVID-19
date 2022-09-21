@@ -158,25 +158,25 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-09-21,All,1540254,171818
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-09-21,All,12808871,231177
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-09-21,All,153044712,234466
-25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-09-21,All,17099711,
-25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-09-21,All,8113678,
-25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-09-21,All,6144417,
-25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-09-21,All,5927140,
-25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-09-21,All,651045,
+25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-09-21,All,17103610,
+25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-09-21,All,8116164,
+25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-09-21,All,6145906,
+25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-09-21,All,5928666,
+25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-09-21,All,651086,
 254,GF,GUF,254,,,French Guiana,France,4.0,-53.0,"French Guiana, France",2022-09-21,All,236724,79256
 258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",2022-09-21,All,465418,165685
-25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-09-21,All,12083816,
+25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-09-21,All,12086020,
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",2022-09-21,All,385712,96397
-25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-09-21,All,25309695,
-25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-09-21,All,8919874,
+25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-09-21,All,25313383,
+25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-09-21,All,8922788,
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-09-21,All,391311,104275
-25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-09-21,All,14118230,
+25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-09-21,All,14121836,
 540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",2022-09-21,All,469146,164329
-25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-09-21,All,7754744,
-25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-09-21,All,12935518,
-25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-09-21,All,10528008,
-25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-09-21,All,6971810,
-25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-09-21,All,13214443,
+25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-09-21,All,7756732,
+25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-09-21,All,12938187,
+25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-09-21,All,10529695,
+25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-09-21,All,6973012,
+25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-09-21,All,13216799,
 876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-09-21,All,16782,109765
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-09-21,All,569829,25601
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-09-21,All,815861,33759
@@ -288,27 +288,27 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2022-09-21,All,19181396,47688
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-09-21,All,11561455,234142
 376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-09-21,All,18226562,210576
-380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-09-21,All,140600174,232543
-38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-09-21,All,3021724,230388
-38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2022-09-21,All,1291278,229410
-38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2022-09-21,All,4165201,213914
-38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2022-09-21,All,12733986,219487
-38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.3417208,"Emilia-Romagna, Italy",2022-09-21,All,10840606,243091
-38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2022-09-21,All,2785174,229190
-38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2022-09-21,All,13795031,234646
-38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2022-09-21,All,3608397,232703
-38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2022-09-21,All,24650891,245024
-38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2022-09-21,All,3430614,224918
-38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2022-09-21,All,722564,236427
+380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-09-21,All,140611718,232562
+38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-09-21,All,3021923,230403
+38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2022-09-21,All,1291344,229421
+38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2022-09-21,All,4165387,213924
+38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2022-09-21,All,12734850,219502
+38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.3417208,"Emilia-Romagna, Italy",2022-09-21,All,10841257,243106
+38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2022-09-21,All,2785366,229206
+38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2022-09-21,All,13796242,234666
+38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2022-09-21,All,3609090,232748
+38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2022-09-21,All,24653851,245054
+38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2022-09-21,All,3431073,224948
+38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2022-09-21,All,722609,236442
 38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2022-09-21,All,1133571,212949
-38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2022-09-21,All,1280458,236500
-38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2022-09-21,All,10423515,239268
-38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2022-09-21,All,9554702,237145
-38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2022-09-21,All,3806684,232172
-38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2022-09-21,All,10562071,211246
-38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2022-09-21,All,9073986,243293
-38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2022-09-21,All,2084686,236354
-38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2022-09-21,All,284974,226770
+38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2022-09-21,All,1280584,236524
+38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2022-09-21,All,10424538,239292
+38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2022-09-21,All,9555014,237152
+38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2022-09-21,All,3807185,232203
+38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2022-09-21,All,10562820,211261
+38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2022-09-21,All,9075008,243321
+38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2022-09-21,All,2084759,236363
+38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2022-09-21,All,285186,226939
 38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2022-09-21,All,11350061,231357
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-09-21,All,1488839,50278
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-09-21,All,321716025,254368
@@ -670,7 +670,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-09-21,All,13014285,238212
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-09-21,All,72837,188121
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-09-21,All,7443232,237151
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-09-21,All,8736460,251501
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-09-21,All,8736529,251503
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-09-21,All,65334146,195206
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-09-21,All,289912,99054
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-09-21,All,37860994,133144
